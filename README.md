@@ -1,6 +1,6 @@
 # IBM-DataScience-SpaceX_Capstone
-<p align="center">
-  ![Capstone](https://github.com/user-attachments/assets/2b6c1630-733a-4961-bc6e-079cea64e6be)
+![Capstone](https://github.com/user-attachments/assets/83fa40af-f158-40ea-9c6a-bd1d8e3b1e62)
+
 
 </p>
 
