@@ -18,7 +18,7 @@ The complete report can be found [here](https://github.com/nevassy/IBM-DataScien
 This project follows these steps:
 1. [Data Collection](https://github.com/nevassy/IBM-DataScience-SpaceX_Capstone/blob/main/1.SpaceX%20Data%20Collection%20API.ipynb)
     - Request to the SpaceX API
-    - [Web Scraping from Wikipedia] (https://github.com/nevassy/IBM-DataScience-SpaceX_Capstone/blob/main/2.SpaceX%20Web%20scraping%20Falcon%209%20and%20Falcon%20Heavy%20Launches%20Records%20from%20Wikipedia.ipynb) 
+    - [Web Scraping from Wikipedia](https://github.com/nevassy/IBM-DataScience-SpaceX_Capstone/blob/main/2.SpaceX%20Web%20scraping%20Falcon%209%20and%20Falcon%20Heavy%20Launches%20Records%20from%20Wikipedia.ipynb) 
 2. [Data Wrangling ](https://github.com/nevassy/IBM-DataScience-SpaceX_Capstone/blob/main/3.SpaceX%20Data%20wrangling.ipynb)
     - Determine the number of launches on each site, number and occurrence of each orbit, number and occurrence of mission outcome per orbit type using .value_counts()
     - Create a landing outcome label:
