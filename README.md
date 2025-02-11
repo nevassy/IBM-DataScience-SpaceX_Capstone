@@ -18,19 +18,18 @@ The complete report can be found [here](https://github.com/nevassy/IBM-DataScien
 This project follows these steps:
 1. [Data Collection](https://github.com/nevassy/IBM-DataScience-SpaceX_Capstone/blob/main/1.SpaceX%20Data%20Collection%20API.ipynb)
     - Request to the SpaceX API
-    - Web Scraping from Wikipedia [(link)](https://github.com/nevassy/IBM-DataScience-SpaceX_Capstone/blob/main/2.SpaceX%20Web%20scraping%20Falcon%209%20and%20Falcon%20Heavy%20Launches%20Records%20from%20Wikipedia.ipynb) 
+    - Web Scraping from [Wikipedia](https://github.com/nevassy/IBM-DataScience-SpaceX_Capstone/blob/main/2.SpaceX%20Web%20scraping%20Falcon%209%20and%20Falcon%20Heavy%20Launches%20Records%20from%20Wikipedia.ipynb) 
 2. [Data Wrangling ](https://github.com/nevassy/IBM-DataScience-SpaceX_Capstone/blob/main/3.SpaceX%20Data%20wrangling.ipynb)
     - Determine the number of launches on each site, number and occurrence of each orbit, number and occurrence of mission outcome per orbit type using .value_counts()
     - Create a landing outcome label:
       0 (not land successfully) and
       1 (land successfully)
 3. [Exploratory Data Analysis](https://github.com/nevassy/IBM-DataScience-SpaceX_Capstone/blob/main/4.%20SpaceX%20EDA%20Using%20SQL.ipynb)
-    - Manipulate and evaluate the SpaceX dataset using SQL queries
-    - Visualize relationships between variables, and determine patterns using Pandas, and Matplotlib[link](https://github.com/nevassy/IBM-DataScience-SpaceX_Capstone/blob/main/5.SpaceX%20EDA%20Data%20Visualization.ipynb)
-
+    - Manipulate and evaluate the SpaceX dataset using [SQL queries](https://github.com/nevassy/IBM-DataScience-SpaceX_Capstone/blob/main/4.%20SpaceX%20EDA%20Using%20SQL.ipynb) 
+    - Visualize relationships between variables, and determine patterns using Pandas, and [Matplotlib](https://github.com/nevassy/IBM-DataScience-SpaceX_Capstone/blob/main/5.SpaceX%20EDA%20Data%20Visualization.ipynb) 
 4. [Interactive Visual Analytics](https://github.com/nevassy/IBM-DataScience-SpaceX_Capstone/blob/main/6.SpaceX%20Location%20Analysis%20with%20Folium.ipynb)
-    - Geospatial analytics using Folium
-    - Interactive dashboard using Plotly Dash
+    - Geospatial analytics using [Folium](https://github.com/nevassy/IBM-DataScience-SpaceX_Capstone/blob/main/6.SpaceX%20Location%20Analysis%20with%20Folium.ipynb) 
+    - Interactive dashboard using [Plotly Dash](https://github.com/nevassy/IBM-DataScience-SpaceX_Capstone/blob/main/7.Build%20an%20Interactive%20Dashboard%20with%20Plotly%20Dash%20-%20spacex_dash_app.ipynb) 
 5. [Predictive Analysis (Classification)](https://github.com/nevassy/IBM-DataScience-SpaceX_Capstone/blob/main/8.SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb)
     - Using Scikit-Learn to:
         - Pre-process (standardize) the data
