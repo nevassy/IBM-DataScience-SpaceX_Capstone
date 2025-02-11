@@ -26,7 +26,7 @@ This project follows these steps:
       1 (land successfully)
 3. [Exploratory Data Analysis](https://github.com/nevassy/IBM-DataScience-SpaceX_Capstone/blob/main/4.%20SpaceX%20EDA%20Using%20SQL.ipynb)
     - Manipulate and evaluate the SpaceX dataset using SQL queries
-    - Visualize relationships between variables, and determine patterns using Pandas, and Matplotlib
+    - Visualize relationships between variables, and determine patterns using Pandas, and Matplotlib[link](https://github.com/nevassy/IBM-DataScience-SpaceX_Capstone/blob/main/5.SpaceX%20EDA%20Data%20Visualization.ipynb)
 
 4. [Interactive Visual Analytics](https://github.com/nevassy/IBM-DataScience-SpaceX_Capstone/blob/main/6.SpaceX%20Location%20Analysis%20with%20Folium.ipynb)
     - Geospatial analytics using Folium
